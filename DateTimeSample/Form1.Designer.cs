@@ -72,7 +72,7 @@
             // tbNowDisp
             // 
             this.tbNowDisp.Font = new System.Drawing.Font("MS UI Gothic", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.tbNowDisp.Location = new System.Drawing.Point(197, 35);
+            this.tbNowDisp.Location = new System.Drawing.Point(198, 35);
             this.tbNowDisp.Name = "tbNowDisp";
             this.tbNowDisp.Size = new System.Drawing.Size(422, 39);
             this.tbNowDisp.TabIndex = 1;
